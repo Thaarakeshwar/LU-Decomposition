@@ -21,7 +21,7 @@ Program to find L and U matrix using LU decomposition.
 Developed by: Thaarakeshwar
 RegisterNumber:  212225040466
 ```
-```
+```python
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 import numpy as np
